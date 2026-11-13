@@ -82,3 +82,20 @@ The project showcases practical experience with AWS security services, Python au
 ## Technologies
 
 **AWS GuardDuty | EventBridge | Lambda | SNS | CloudWatch | Python | AWS CLI**
+
+## Project Screenshots
+
+### AWS Lambda Execution
+![Successful Lambda execution](01-lambda-success.png)
+
+### Amazon SNS Configuration
+![SNS confirmation](02-sns-confirmed.png)
+
+### GuardDuty Findings
+![GuardDuty findings](03-guardduty-findings.png)
+
+### EventBridge Rule
+![EventBridge rule](04-eventbridge-rule.png)
+
+### Security Alert Email
+![Automated security alert](05-alert-email.png)
